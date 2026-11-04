@@ -1,0 +1,6 @@
+{
+  "name": "Inventory and Stock Management System",
+  "description": "ADSA course project implementing custom HashTable, AVL Tree, Trie, MinHeap, Queue, Stack, and sorting algorithms from scratch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
